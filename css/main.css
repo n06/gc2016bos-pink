@@ -26,7 +26,7 @@ h3 {
 
 .contact-them {
     background-color: #2E67FF;
-    height: 35vh;
+    height: 45vh;
 }
 
 .share-this {
@@ -284,4 +284,8 @@ h3 {
 
 .bad {
     background-color: pink;
+}
+
+#campaign-zero-widget {
+  position: relative !important;
 }
