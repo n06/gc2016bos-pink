@@ -1,7 +1,31 @@
-body {
-  text-align: center;
-   background-position: center;
-   background-image: url(../img/policeofficer.svg);
-   background-repeat: no-repeat;
-   height: 150vh;
+main {
+    font-size: 48px;
+}
+
+.Banner {
+    height: 480px;
+    background-color: orange;
+    text-align: center;
+}
+.graphic {
+    text-align: center;
+    background-position: center;
+    background-image: url(../img/policeofficer.svg);
+    background-repeat: no-repeat;
+    height: 150vh;
+}
+
+.contact-them {
+    background-color: #2E67FF;
+    height: 35vh;
+}
+
+.share-this {
+    height: 50vh;
+    background-color: #CC5446;
+}
+
+.learn-more {
+    height: 35vh;
+    background-color: #1878D7;
 }
