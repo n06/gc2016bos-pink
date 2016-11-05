@@ -28,6 +28,8 @@ h3 {
 }
 .contact-them h1 {
     background-color: #2E67FF;
+    color: white;
+    padding: 8px;
 }
 
 
@@ -36,6 +38,8 @@ h3 {
 }
 .share-this h1 {
     background-color: #CC5446;
+    color: white;
+    padding: 8px;
 }
 
 .learn-more {
@@ -43,6 +47,8 @@ h3 {
 }
 .learn-more h1 {
     background-color: #1878D7;
+    color: white;
+    padding: 8px;
 }
 
 .resp-sharing-button__link,
