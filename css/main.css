@@ -245,11 +245,12 @@ h3 {
 }
 
 #indicator1 {
+    bottom: 64px;
 }
 
 #indicator2 {
     left: 48px;
-    top: 180px;
+    top: 400px;
 }
 
 #indicator3 {
@@ -262,9 +263,18 @@ h3 {
     top: 400px;
 }
 
+#indicator5 {
+    left: 500px;
+    top: 500px;
+}
+
 
 .good {
     background-color: #A8F397;
+}
+
+.neutral {
+    background-color: orange;
 }
 
 .bad {
