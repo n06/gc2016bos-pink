@@ -31,3 +31,13 @@ Key findings:
 - Officers with body cameras initiated 13.5% more interactions with citizens than those who did not wear them.
 - Officers wearing cameras were 25.2% more likely to perceive the devices as being helpful during their interactions with the public.
 - The cameras did not have a significant impact on whether or not officers gave verbal warnings to citizens.
+
+
+### Mapping police violence - http://mappingpoliceviolence.org/compare-police-departments
+
+ - From Jan 2013 to Sept 2016, there were 7 police killings within the Boston Police Department's jurisdiction
+ - 28% of U.S. police killings between Jan 2013 - Sept 2016 were committed by police departments of the 100 largest U.S. cities.
+ - Black people were 40% of people killed by these 100 police departments despite being only 21% of the population in their jurisdictions.
+ - Only 3 of the 100 largest city police departments did not kill anyone from Jan 2013 - Sept 2016 (Buffalo, Irvine, and Plano).
+ - The majority (51%) of unarmed people killed by the 100 largest city police departments were black. These police departments killed unarmed black people at a rate 4 times higher than unarmed white people.
+ - Rates of violent crime in cities did not make it any more or less likely for police departments to kill people. For example, Buffalo and Newark police departments had low rates of police violence despite high crime rates while Spokane and Bakersfield had relatively low crime rates and high rates of police violence.
