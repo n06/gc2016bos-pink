@@ -273,6 +273,11 @@ h3 {
     right: 0;
 }
 
+#indicator7 {
+  right: 75px;
+  top: 355px;
+}
+
 
 .good {
     background-color: #A8F397;
