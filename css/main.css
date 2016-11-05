@@ -21,6 +21,7 @@ h3 {
     background-image: url(../img/policeofficer.svg);
     background-repeat: no-repeat;
     height: 150vh;
+    position: relative;
 }
 
 .contact-them {
@@ -36,4 +37,23 @@ h3 {
 .learn-more {
     height: 35vh;
     background-color: #1878D7;
+}
+
+
+.kpi {
+    font-weight: 600;
+    font-size: 96px;
+}
+
+#indicator1 {
+    color: white;
+    position: absolute;
+    right: 40px;
+    top: 100px;
+    height: 256px;
+    width: 256px;
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px #888888;
+    padding: 12px;
+    background-color: pink;
 }
