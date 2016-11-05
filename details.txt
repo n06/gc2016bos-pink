@@ -41,3 +41,47 @@ Key findings:
  - Only 3 of the 100 largest city police departments did not kill anyone from Jan 2013 - Sept 2016 (Buffalo, Irvine, and Plano).
  - The majority (51%) of unarmed people killed by the 100 largest city police departments were black. These police departments killed unarmed black people at a rate 4 times higher than unarmed white people.
  - Rates of violent crime in cities did not make it any more or less likely for police departments to kill people. For example, Buffalo and Newark police departments had low rates of police violence despite high crime rates while Spokane and Bakersfield had relatively low crime rates and high rates of police violence.
+
+### Things you should know about Police Body Camearas in Boston - http://www.wbur.org/news/2016/09/12/boston-police-body-camera-pilot-program-overview
+
+- As of the writing of this article (September 12, 2016) 100 BPD officers are now equipped.
+- At launch, ZERO officers voluneteered - so Dr. Anthony Braga, who heads the School of Criminology and Criminal Justice at Northeastern University selected 100 - 
+  -- According to the department, 55 are white, 29 are black, 13 are Latino, and three are Asian. And 87 of the 100 officers are men.
+- The officer gits to choose when the camera is on/off - but they are allowed to record all contact with all civilians.  "The policy gives officers discretion not to record in some instances where there’s a reasonable expectation of privacy — like locker rooms, hospitals or places of worship."
+
+
+### Implementing a Body-Worn Camera Program Recommendations and Lessons Learned - https://www.justice.gov/iso/opa/resources/472014912134715246869.pdf
+
+Body-worn camera results for
+Rialto (California) Police Department
+- 60 percent reduction in officer use of force
+incidents following camera deployment
+-  Half the number of use of force incidents
+for shifts with cameras compared to shifts
+without cameras
+-  88 percent reduction in number of citizen
+complaints between the year prior to and
+following camera deployment
+
+Body-worn camera results for
+Mesa (Arizona) Police Department
+-  Nearly 3x more complaints against officers
+without cameras, eight months after camera
+deployment
+-  40 percent fewer total complaints for officers
+with cameras during pilot program
+- 75 percent fewer use of force complaints for
+officers with cameras during pilot program
+
+In Daytona Beach, Chief Chitwood requested that the officers with a history of complaints be
+among the first to be outfitted with body-worn cameras. Although he found that usually the videos
+demonstrated that “the majority of the officers are hardworking, good police,” he has also seen how
+body-worn cameras can help an agency address discipline problems. Chitwood said:
+We had an officer who had several questionable incidents in the past, so we outfitted him
+with a camera. Right in the middle of an encounter with a subject, the camera goes blank,
+and then it comes back on when the incident is over. He said that the camera malfunctioned,
+so we gave him another one. A week later he goes to arrest a woman, and again, the camera
+goes blank just before the encounter. He claimed again that the camera had malfunctioned.
+So we conducted a forensic review of the camera, which determined that the officer had
+intentionally hit the power button right before the camera shut off. Our policy says that if
+you turn it off, you’re done. He resigned the next day.
