@@ -1,5 +1,43 @@
-BodyCameras reduce Police Force - https://www.bja.gov/bwc/pdfs/14-005_Report_BODY_WORN_CAMERAS.pdf
+### BodyCameras reduce Police Force - https://www.bja.gov/bwc/pdfs/14-005_Report_BODY_WORN_CAMERAS.pdf
 
 - Use of BWC's (body cameras) in one study reduced "use-of-force" incidents by 59%
 - Use of BWC's (body cameras) in one study reduced citizens complaints by 87.5%
-- 
+
+ Shifts without cameras were twice as
+likely to experience incidents of use-of-force as shifts with cameras. 
+
+The City also detected large before-and-after reductions in the prevalence of use-offorce
+incidents: A 64.28 percent reduction from 2009, 61.53 percent from 2010, and 58.33
+percent from 2011. The City found that the rate of use-of-force incidents per 1,000 contacts was
+reduced by 2.5 times in comparison to 12 months prior to the experimental period. Rialto
+noticed a sizable reduction in the number of citizens’ complaints against its officers as well.
+
+The City documented an overall reduction in terms of citizens’ complaints. One year
+prior to the study, citizens filed 24 complaints. During the study, citizens only filed 3
+complaints. This broke down to 0.70 complaints per 1,000 interactions compared to .069 per
+1,000 interactions. The raw year-to-year reductions suggests 91.66% fewer cases compared to
+2009, 94.11 percent compared to 2010, and 89.28 percent compared to 2011
+
+### Do body cameras chage how police interact with the public? - http://journalistsresource.org/studies/government/criminal-justice/body-cameras-police-interact-with-public
+
+In San Diego, for example, a 2015 report based on preliminary statistics showed that body cameras helped reduce “personal body” force by officers by 46.5%.
+
+A September 2015 study published in the Journal of Experimental Criminology used a controlled experiment with the Mesa Police Department in Arizona to determine how body cameras influence police-citizen interactions.
+
+Key findings:
+
+- Officers who did not wear body cameras conducted more “stop-and-frisks” and made more arrests than officers who wore the video cameras. Officers who did not wear cameras performed 9.8% more stop-and-frisks and made 6.9% more arrests.
+- Officers assigned to wear cameras issued 23.1% more citations for ordinance violations than those who did not wear cameras.
+- Officers with body cameras initiated 13.5% more interactions with citizens than those who did not wear them.
+- Officers wearing cameras were 25.2% more likely to perceive the devices as being helpful during their interactions with the public.
+- The cameras did not have a significant impact on whether or not officers gave verbal warnings to citizens.
+
+
+### Mapping police violence - http://mappingpoliceviolence.org/compare-police-departments
+
+ - From Jan 2013 to Sept 2016, there were 7 police killings within the Boston Police Department's jurisdiction
+ - 28% of U.S. police killings between Jan 2013 - Sept 2016 were committed by police departments of the 100 largest U.S. cities.
+ - Black people were 40% of people killed by these 100 police departments despite being only 21% of the population in their jurisdictions.
+ - Only 3 of the 100 largest city police departments did not kill anyone from Jan 2013 - Sept 2016 (Buffalo, Irvine, and Plano).
+ - The majority (51%) of unarmed people killed by the 100 largest city police departments were black. These police departments killed unarmed black people at a rate 4 times higher than unarmed white people.
+ - Rates of violent crime in cities did not make it any more or less likely for police departments to kill people. For example, Buffalo and Newark police departments had low rates of police violence despite high crime rates while Spokane and Bakersfield had relatively low crime rates and high rates of police violence.
