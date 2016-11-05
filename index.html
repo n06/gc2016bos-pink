@@ -6,6 +6,8 @@
 
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
+
+    <script src="js/Chart.js"></script>
   </head>
   <body>
     <nav class="navbar navbar-default">
@@ -28,12 +30,33 @@
             <li><a href="#">Section 2</a></li>
             </li>
           </ul>
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="#">Link</a></li>
-          </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
     </nav>
+
+    <div class="container">
+			<div class="row">
+          <div class="col-lg-4"></div>
+  				<div class="col-lg-4">
+  					<canvas id="bodycams" height="130" width="130"></canvas>
+  					<br>
+  					<script>
+  						var doughnutData = [
+  								{
+  									value: 2044,
+  									color:"#1abc9c"
+  								},
+  								{
+  									value : 100,
+  									color : "#ecf0f1"
+  								}
+  							];
+  							var myDoughnut = new Chart(document.getElementById("bodycams").getContext("2d")).Doughnut(doughnutData);
+  					</script>
+  				</div>
+          <div class="col-lg-4"></div>
+        </div>
+      </div>
 
     <script async src="https://embed.joincampaignzero.org/widget.js" charset="utf-8"></script>
 
