@@ -1,10 +1,18 @@
-main {
+.title {
+    text-align: center;
+}
+
+h1 {
     font-size: 48px;
+}
+
+h3 {
+    font-size: 24px;
 }
 
 .Banner {
     height: 480px;
-    background-color: orange;
+    background-color: #FFAC4D; // orange
     text-align: center;
 }
 .graphic {
