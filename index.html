@@ -44,8 +44,26 @@
 	<h3>what do we want?  More BPD body cameras</h3>
       </div>
       <div class="graphic">
-        <a name="graphic"></a>
-        <canvas id="bodycams" height="130" width="130"></canvas>
+    <div class="indicator" id="indicator1">
+      <div class="kpi">
+	-59%
+      </div>
+      <div class="indicator-text">
+	Use of BWC's (body cameras) in Rialto, CA reduced "use-of-force" incidents by 59%
+      </div>
+    </div>
+    <div class="indicator" id="indicator2">
+      <div class="kpi">
+	+55%
+      </div>
+      <div class="indicator-text">
+	something else
+      </div>
+    </div>
+    <div class="indicator" id="indicator3">
+      <div class="kpi">
+	2%
+	        <canvas id="bodycams" height="130" width="130"></canvas>
         <br>
         <script>
         var doughnutData = [
@@ -60,8 +78,13 @@
         ];
         var myDoughnut = new Chart(document.getElementById("bodycams").getContext("2d")).Doughnut(doughnutData);
         </script>
-        Only 100 Boston Police Officers out of 2,144 have been given body cameras.
+      </div>
+      <div class="indicator-text">
+	100/2144 officers with body cameras
+      </div>
+    </div>
 
+    <a name="graphic"></a>
       </div>
       <div class="contact-them">
         <a name="contact-them"></a>
@@ -132,7 +155,8 @@
 	<h1>Learn More</h1>
       </div>
     </div>
-  </main>
+</main>
+
 
   <script async src="https://embed.joincampaignzero.org/widget.js" charset="utf-8"></script>
   <script src="js/jquery-3.1.1.min.js"></script>

@@ -21,6 +21,7 @@ h3 {
     background-image: url(../img/policeofficer.svg);
     background-repeat: no-repeat;
     height: 150vh;
+    position: relative;
 }
 
 .contact-them {
@@ -222,4 +223,30 @@ h3 {
 .resp-sharing-button--pinterest:active {
   background-color: #8c0615;
   border-color: #8c0615;
+}
+
+.kpi {
+    font-weight: 600;
+    font-size: 96px;
+}
+
+.indicator-text {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.indicator {
+    color: white;
+    position: absolute;
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px #888888;
+    padding: 12px;
+    background-color: pink;
+}
+
+#indicator1 {
+    right: 40px;
+    top: 100px;
+    min-height: 256px;
+    width: 256px;
 }
