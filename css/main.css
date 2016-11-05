@@ -268,6 +268,16 @@ h3 {
     top: 500px;
 }
 
+#indicator6 {
+    left: 100px;
+    top: 50px;
+}
+
+#indicator7 {
+    left: 0px;
+    top: 20px;
+}
+
 
 .good {
     background-color: #A8F397;
