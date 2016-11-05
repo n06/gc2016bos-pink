@@ -1,3 +1,7 @@
+body {
+  background-color: #BFBEBF;
+}
+
 .title {
     text-align: center;
 }
@@ -11,10 +15,12 @@ h3 {
 }
 
 .Banner {
+    padding-top: 4em;
     background-color: #FFAC4D; // orange
     text-align: center;
 }
 .graphic {
+    background-color: white;
     text-align: center;
     background-position: center;
     background-image: url(../img/policeofficer.svg);
@@ -27,6 +33,7 @@ h3 {
     height: 45vh;
 }
 .contact-them h1 {
+    margin-top: 0;
     background-color: #2E67FF;
     color: white;
     padding: 8px;
@@ -261,17 +268,17 @@ h3 {
 }
 
 #indicator2 {
-    left: 48px;
-    top: 400px;
+    left: 30px;
+    top: 40px;
 }
 
 #indicator3 {
-    right: 40px;
+    left: 1200px;
     top: 100px;
 }
 
 #indicator4 {
-    right: 180px;
+    left: 180px;
     top: 400px;
 }
 
@@ -281,18 +288,18 @@ h3 {
 }
 
 #indicator6 {
-    left: 430px;
-    top: 50px;
+    left: 1100px;
+    top: 600px;
 }
 
 #indicator7 {
-    left: 0px;
+    left: 650px;
     top: 20px;
 }
 
-#indicator7 {
-  right: 75px;
-  top: 355px;
+#indicator8  {
+  left: 1000px;
+  top: 1100px;
 }
 
 
@@ -310,4 +317,14 @@ h3 {
 
 #campaign-zero-widget {
   position: relative !important;
+}
+
+#contact-left {
+  padding-left: 5em;
+  float: left;
+}
+
+#contact-right {
+  padding-right: 5em;
+  float: right;
 }
