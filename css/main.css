@@ -25,17 +25,24 @@ h3 {
 }
 
 .contact-them {
-    background-color: #2E67FF;
     height: 45vh;
 }
+.contact-them h1 {
+    background-color: #2E67FF;
+}
+
 
 .share-this {
     height: 50vh;
+}
+.share-this h1 {
     background-color: #CC5446;
 }
 
 .learn-more {
     height: 35vh;
+}
+.learn-more h1 {
     background-color: #1878D7;
 }
 
