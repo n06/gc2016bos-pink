@@ -238,17 +238,47 @@ h3 {
 .indicator {
     color: white;
     position: absolute;
-    border-radius: 4px;
+    border-radius: 16px;
     box-shadow: 4px 4px 4px #888888;
-    padding: 12px;
-    background-color: pink;
+    padding: 24px;
+    max-width: 384px;
 }
 
 #indicator1 {
+    bottom: 64px;
+}
+
+#indicator2 {
+    left: 48px;
+    top: 400px;
+}
+
+#indicator3 {
     right: 40px;
     top: 100px;
-    min-height: 256px;
-    width: 256px;
+}
+
+#indicator4 {
+    right: 180px;
+    top: 400px;
+}
+
+#indicator5 {
+    left: 500px;
+    top: 500px;
+}
+
+
+.good {
+    background-color: #A8F397;
+}
+
+.neutral {
+    background-color: orange;
+}
+
+.bad {
+    background-color: pink;
 }
 
 #campaign-zero-widget {
