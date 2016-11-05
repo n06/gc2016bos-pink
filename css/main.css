@@ -4,7 +4,7 @@ main {
 
 .Banner {
     height: 480px;
-    background-color: pink;
+    background-color: orange;
     text-align: center;
 }
 .graphic {
@@ -15,15 +15,17 @@ main {
     height: 150vh;
 }
 
+.contact-them {
+    background-color: #2E67FF;
+    height: 35vh;
+}
+
 .share-this {
     height: 50vh;
-    background-color: green;
+    background-color: #CC5446;
 }
+
 .learn-more {
     height: 35vh;
-    background-color: purple;
-}
-.contact-them {
-    background-color: blue;
-    height: 35vh;
+    background-color: #1878D7;
 }
