@@ -268,6 +268,11 @@ h3 {
     top: 500px;
 }
 
+#indicator6 {
+    bottom: 0;
+    right: 0;
+}
+
 
 .good {
     background-color: #A8F397;
