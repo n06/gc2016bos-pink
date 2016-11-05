@@ -11,7 +11,6 @@ h3 {
 }
 
 .Banner {
-    height: 480px;
     background-color: #FFAC4D; // orange
     text-align: center;
 }
@@ -25,18 +24,31 @@ h3 {
 }
 
 .contact-them {
-    background-color: #2E67FF;
     height: 45vh;
 }
+.contact-them h1 {
+    background-color: #2E67FF;
+    color: white;
+    padding: 8px;
+}
+
 
 .share-this {
     height: 50vh;
+}
+.share-this h1 {
     background-color: #CC5446;
+    color: white;
+    padding: 8px;
 }
 
 .learn-more {
     height: 35vh;
+}
+.learn-more h1 {
     background-color: #1878D7;
+    color: white;
+    padding: 8px;
 }
 
 .resp-sharing-button__link,
@@ -269,8 +281,13 @@ h3 {
 }
 
 #indicator6 {
-    bottom: 0;
-    right: 0;
+    left: 430px;
+    top: 50px;
+}
+
+#indicator7 {
+    left: 0px;
+    top: 20px;
 }
 
 #indicator7 {
