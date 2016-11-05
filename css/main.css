@@ -15,10 +15,17 @@ h3 {
 }
 
 .Banner {
-    padding-top: 4em;
-    background-color: #FFAC4D; // orange
+    padding-top: 3.5em;
+    background-color: #BFBEBF; // #FFAC4D  orange
     text-align: center;
 }
+
+.Banner h1 {
+    margin-top: 0 !important;
+    background-color: #FFAC4D; // #FFAC4D  orange
+    text-align: center;
+}
+
 .graphic {
     background-color: white;
     text-align: center;
@@ -41,7 +48,7 @@ h3 {
 
 
 .share-this {
-    height: 50vh;
+    height: 20vh;
 }
 .share-this h1 {
     background-color: #CC5446;
