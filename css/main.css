@@ -45,15 +45,23 @@ h3 {
     font-size: 96px;
 }
 
-#indicator1 {
+.indicator-text {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.indicator {
     color: white;
     position: absolute;
-    right: 40px;
-    top: 100px;
-    height: 256px;
-    width: 256px;
     border-radius: 4px;
     box-shadow: 4px 4px 4px #888888;
     padding: 12px;
     background-color: pink;
+}
+
+#indicator1 {
+    right: 40px;
+    top: 100px;
+    min-height: 256px;
+    width: 256px;
 }
