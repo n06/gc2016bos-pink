@@ -16,13 +16,13 @@ h3 {
 
 .Banner {
     padding-top: 3.5em;
-    background-color: #BFBEBF; // #FFAC4D  orange
+    background-color: #BFBEBF; /* #FFAC4D  orange */
     text-align: center;
 }
 
 .Banner h1 {
     margin-top: 0 !important;
-    background-color: #FFAC4D; // #FFAC4D  orange
+    background-color: #FFAC4D; /* #FFAC4D  orange */
     text-align: center;
 }
 
@@ -32,13 +32,12 @@ h3 {
     background-position: center;
     background-image: url(../img/policeofficer.svg);
     background-repeat: no-repeat;
-    height: 150vh;
     position: relative;
 }
 
 .contact-them {
-    height: 45vh;
 }
+
 .contact-them h1 {
     margin-top: 0;
     background-color: #2E67FF;
@@ -48,12 +47,13 @@ h3 {
 
 
 .share-this {
-    height: 20vh;
+    text-align: center;
 }
 .share-this h1 {
     background-color: #CC5446;
     color: white;
     padding: 8px;
+    text-align: start;
 }
 
 .learn-more {
@@ -63,6 +63,11 @@ h3 {
     background-color: #1878D7;
     color: white;
     padding: 8px;
+}
+
+.us {
+    margin-top: 48px;
+    text-align: center;
 }
 
 .resp-sharing-button__link,
@@ -251,64 +256,12 @@ h3 {
   border-color: #8c0615;
 }
 
-.kpi {
-    font-weight: 600;
-    font-size: 96px;
-}
-
-.indicator-text {
-    font-size: 18px;
-    font-weight: 500;
-}
+/* defaults */
 
 .indicator {
     color: white;
-    position: absolute;
-    border-radius: 16px;
-    box-shadow: 4px 4px 4px #888888;
-    padding: 24px;
-    max-width: 384px;
+    box-shadow: 2px 2px 2px #a0a0a0;
 }
-
-#indicator1 {
-    bottom: 64px;
-}
-
-#indicator2 {
-    left: 2%;
-    top: 2%;
-}
-
-#indicator3 {
-    left: 75%;
-    top: 100px;
-}
-
-#indicator4 {
-    left: 180px;
-    top: 400px;
-}
-
-#indicator5 {
-    left: 500px;
-    top: 500px;
-}
-
-#indicator6 {
-    left: 1100px;
-    top: 600px;
-}
-
-#indicator7 {
-    left: 650px;
-    top: 20px;
-}
-
-#indicator8  {
-  left: 1000px;
-  top: 1100px;
-}
-
 
 .good {
     background-color: #A8F397;
@@ -322,16 +275,105 @@ h3 {
     background-color: pink;
 }
 
+.kpi {
+    font-size: 200%;
+    font-weight: 800;
+}
+
+/* bootstrap xs (default size basis) */
+
+.indicator {
+    position: default;
+    padding: 8px;
+    border-radius: 4px;
+    margin: 6px 3px;
+}
+
+#indicator1 {
+}
+
+#indicator2 {
+}
+
+#indicator3 {
+}
+
+#indicator4 {
+}
+
+#indicator5 {
+}
+
+#indicator6 {
+}
+
+#indicator7 {
+}
+
+#indicator8  {
+}
+
+@media (min-width: 1200px) {
+    .graphic {
+	height: 150vh;
+    }
+
+    .indicator {
+	position: absolute;
+	padding: 24px 16px;
+	border-radius: 16px;
+	width: 384px;
+    }
+
+    .kpi {
+	font-size: 500%;
+    }
+
+    #indicator1 {
+	right: 128px;
+	bottom: 384px;
+    }
+
+    #indicator2 {
+	top: 128px;
+	right: 64px;
+    }
+
+    #indicator3 {
+	left: 128px;
+	top: 32px;
+    }
+
+    #indicator4 {
+	left: 384px;
+	top: 384px;
+    }
+
+    #indicator5 {
+	left: 50%;
+	top: 50%;
+    }
+
+    #indicator6 {
+	left: 64px;
+	bottom: 512px;
+    }
+
+    #indicator7 {
+	bottom: 192px;
+	left: 32px;
+    }
+
+    #indicator8  {
+	bottom: 128px;
+	right: 256px;
+    }
+}
+
+.contact {
+    text-align: center;
+}
+
 #campaign-zero-widget {
-  position: relative !important;
-}
-
-#contact-left {
-  padding-left: 5em;
-  float: left;
-}
-
-#contact-right {
-  padding-right: 5em;
-  float: right;
+/*    position: inherit !important;*/
 }
